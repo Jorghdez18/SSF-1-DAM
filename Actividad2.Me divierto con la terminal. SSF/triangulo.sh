@@ -1,5 +1,10 @@
+=================================================================
 #!/usr/bin/bash
-# Jorge Hernández Pérez
+#Jorge Hernández Pérez
+#Script que crea un triángulo de la misma forma que el rectángulo
+=================================================================
+
+
 
 echo "Introduce la base de su rectangulo: "
 read base
