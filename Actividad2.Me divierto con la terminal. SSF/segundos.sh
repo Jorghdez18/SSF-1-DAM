@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 #Jorge Hernádez Pérez 1ºDAM
 
 echo "Introduce dias: "
