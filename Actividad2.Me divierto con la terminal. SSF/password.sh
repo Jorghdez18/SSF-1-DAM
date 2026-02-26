@@ -15,6 +15,6 @@ echo "OK"
 correcto=1
 else
 echo "ERROR, no coinciden"
-fi
+break
 fi
 done
