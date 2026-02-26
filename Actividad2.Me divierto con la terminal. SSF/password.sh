@@ -1,4 +1,10 @@
+======================================================================
 #!/usr/bin/bash
+#Jorge Hernández Pérez
+#Script que guarda una pswd y que la compara con un siguiente intento
+======================================================================
+
+
 correcto=0
 
 while [ $correcto -eq 0 ]
