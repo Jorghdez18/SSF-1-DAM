@@ -1,5 +1,9 @@
+=================================================================
 #!/usr/bin/bash
 #Jorge Hernández Pérez
+#Script que calcula un imc con datos personalizados
+=================================================================
+
 
 echo "Introduce altura en cm:"
 read altura
