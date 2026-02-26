@@ -1,4 +1,4 @@
-#!/usrbin/bash
+#!/usr/bin/bash
 correcto=0
 
 while [ $correcto -eq 0 ]
