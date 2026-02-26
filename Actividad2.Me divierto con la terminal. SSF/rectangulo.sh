@@ -1,5 +1,10 @@
+=================================================================
 #!/usr/bin/bash
-# Jorge Hernández Pérez
+#Jorge Hernández Pérez
+#Script que crea un rectángulo con datos personalizados
+=================================================================
+
+
 
 echo "Introduce la base de su rectangulo: "
 read base
