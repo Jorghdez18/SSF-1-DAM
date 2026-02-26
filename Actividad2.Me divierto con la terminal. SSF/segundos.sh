@@ -1,5 +1,10 @@
+======================================================================
 #!/usr/bin/bash
-#Jorge Hernádez Pérez 1ºDAM
+#Jorge Hernández Pérez
+#Script que calcula segundos en total en base a los datos que les des
+======================================================================
+
+
 
 echo "Introduce dias: "
 read dias
